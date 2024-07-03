@@ -1,0 +1,22 @@
+{
+  "name": "prettierprac",
+  "version": "1.0.0",
+  "description": "\"prettier 테스트\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KimInteger/prettierPrac.git"
+  },
+  "author": "KimInteger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KimInteger/prettierPrac/issues"
+  },
+  "homepage": "https://github.com/KimInteger/prettierPrac#readme",
+  "devDependencies": {
+    "prettier": "^3.3.2"
+  }
+}
